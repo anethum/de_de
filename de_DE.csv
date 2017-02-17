@@ -509,7 +509,7 @@ Add Subcategory,Unterkategorie hinzufügen
 Add Swatch,Farbfeld hinzufügen
 Add Tax,Steuer hinzufügen
 Add Tier,Stufe hinzufügen
-Add to Cart,In den Warenkorb
+Add to Cart,Zum Warenkorb hinzufügen
 Add to Column Options,Spaltenoptionen hinzufügen
 Add to Compare,Zur Vergleichsliste hinzufügen
 Add to Gift Registry,Zur Geschenkeliste hinzufügen
@@ -537,6 +537,7 @@ Add/Update Complex Data,Hinzufügen/Aktualisieren komplexer Daten
 Added,Hinzugefügt
 Added for spent money according to reward exchange rates.,Gemäß dem Belohnungskurs dem ausgegebenen Geld hinzugefügt
 Added On,Hinzugefügt
+Adding...,Hinzufügen...
 Additional Address Entries,Zusätzliche Adresseinträge
 Additional Attribute Table,Tabelle zusätzlicher Attribute
 Additional Cache Management,Zusätzliches Cache-Management
@@ -1304,6 +1305,7 @@ Cart Line Items,Artikel im Einkaufswagen
 Cart Price Rule,Warenkorb-Preisregel
 Cart Price Rules,Warenkorb-Preisregeln
 Cart Subtotal,Warenkorb-Zwischensumme
+Cart,Warenkorb
 Carts,Warenkörbe
 Case Sensitive,Groß- und Kleinschreibung
 Cash On Delivery Payment,Zahlung per Nachnahme
@@ -1705,7 +1707,7 @@ Coupons/Discounts,Gutscheine/Rabatte
 CPF,CPF
 Create,Erstellen
 Create Account,Konto erstellen
-Create an Account,Ein Konto erstellen
+Create an Account,Konto erstellen
 Create an account on our site now and earn %1.,Einen Account auf unserer Seite erstellen und %1 erhalten.
 Create Backup,Backup erstellen
 Create Billing Address,Rechnungsadresse erstellen
@@ -1798,6 +1800,7 @@ critical,Kritisch
 Critical System Messages,Kritische Systemmeldungen
 Cron,Cron
 Cron (Scheduled Tasks) - all the times are in minutes,Cron (Geplante Aufgaben) - Alle Zeiten sind in Minuten
+Cron configuration options for group: index,Cron-Konfigurationsoptionen für die Gruppe: index
 Cron configuration options for group: default,Cron-Konfigurationsoptionen für Gruppe: default
 Cron configuration options for group: index,Cron-Konfigurationsoptionen für die Gruppe: index
 Cron Expression,Cron-Ausdruck
@@ -4175,7 +4178,7 @@ My Product Reviews,Meine Produktbewertungen
 My Recent Reviews,Meine letzten Bewertungen
 My Returns,Meine Rücksendungen
 My special attribute,Mein Spezialattribut
-My Wish List,Mein Wunschzettel
+My Wish List,Wunschzettel
 My Wish List Link,"""Mein Merkzettel""-Verlinkung"
 My Wish Lists,Meine Wunschzettel
 My Wish Lists Link,Link zu Meine Wunschzettel
@@ -4680,7 +4683,7 @@ Order tracking,Bestellverfolgung
 Order Updated,Bestellung aktualisiert
 Order Valid Period (days),Gültigskeitsdauer von Bestellungen (Tage)
 Order View,Bestellübersicht
-order-header,order-header
+order-header,Bestellungs-Kopfzeile
 Ordered,Bestellt
 ordered,Bestellt
 Ordered amount of %1,Bestellte Menge von %1
